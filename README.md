@@ -48,7 +48,7 @@ GitHub Actions validates repository structure, JSON syntax, and ADR numbering.
 
 ## Portfolio scope
 
-This repository is generic and contains no proprietary Ceribro™, Genius Geeks, Pochette™, or PixelForge™ source code.
+This repository is generic and contains no proprietary Ceribro™ SaaS or Genius Geeks source code.
 
 ## License
 
